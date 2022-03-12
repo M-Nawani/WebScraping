@@ -1,2 +1,2 @@
 # WebScraping
-This repor contains different web scraping projects created for learning
+This repo contains different web scraping projects created for learning
